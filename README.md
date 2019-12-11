@@ -23,3 +23,8 @@ The following are the CSV files that contain links and class labels for the trai
   * validation_images_preprocessed.csv
 * <b>Tuning Results</b>:  This is the output of model_tuning.py.  These results were used to tune the models. Over 2000 different models were created and tested in this project.
   * tuning_results.csv
+  
+## Write-up
+* <b>Facial Expression Recognition using CNN.pdf</b>:  Write-up for this project.
+
+## Poster
