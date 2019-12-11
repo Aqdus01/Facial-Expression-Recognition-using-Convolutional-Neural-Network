@@ -28,3 +28,5 @@ The following are the CSV files that contain links and class labels for the trai
 * <b>Facial Expression Recognition using CNN.pdf</b>:  Write-up for this project.
 
 ## Poster
+
+![picture alt](https://github.com/KoalaChelsea/Facial-Expression-Recognition-using-Convolutional-Neural-Network/blob/master/Poster.PNG "Poster")
